@@ -1,4 +1,4 @@
-- 🍞 Hi, I’m @AFlockOfToasters a.k.a. Bernd Ackermann
+- 🍞 Hi, I’m @AFlockOfToasters
 - 🧬 I’m a Molecular Biologist and
 - 📊 A Data Scientist.
 - 📫 You can shoot me a message on Xing: https://www.xing.com/profile/Bernd_Ackermann29/cv or 
